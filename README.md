@@ -9,7 +9,7 @@ Simple gas station search made using Flask and yandex.maps API.
 ## Using
 
 ```
-$ clone repo
+$ git clone https://github.com/max-lv/yamap-search.git
 $ cd yamap-search
 [!] Put yandex.maps API KEY into APIKEY constant inside app.py
 $ ./app.py
