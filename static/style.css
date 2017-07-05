@@ -1,0 +1,52 @@
+
+button {
+    background: #5782ff;
+    margin-top: 35px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2f62f5;
+}
+
+input {
+    width: 40% !important;
+}
+
+a {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.item-text {
+    min-width: 300px;
+    display: inline-block;
+}
+
+.item-footer {
+    display: inline;
+    margin-left: 10px;
+}
+
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 5px;
+}
+
+thead > tr {
+    background: rgb(87, 130, 255);
+    color: whitesmoke;
+}
+
+td.wide {
+    width:50%;
+}
